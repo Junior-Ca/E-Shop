@@ -7,6 +7,7 @@ E-Shop is a modern e-commerce application built with Next.js and Tailwind CSS, d
 - **Product Listings** – Browse a variety of products with detailed descriptions and images.
 - **Shopping Cart** – Add products to your cart and manage quantities.
 - **Order Management** – Users can place and track orders.
+- **Payments with Stripe** – Secure payment processing with Stripe Checkout.
 
 # Technologies Used
 
