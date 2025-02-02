@@ -16,3 +16,4 @@ E-Shop is a modern e-commerce application built with Next.js and Tailwind CSS, d
 - **Prisma** - An ORM for database management.
 - **NextAuth.js** - Authentication for Next.js applications.
 - **MongoDB** - A NoSQL database for storing product and user data.
+- **Stripe** - Payment processing system for handling checkout and transactions.
